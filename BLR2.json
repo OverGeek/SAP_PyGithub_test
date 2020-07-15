@@ -1,0 +1,63 @@
+{
+  "BLR2": {
+    "BLR2GRP1": {
+      "repositories": [
+        "fnd-alert-admin",
+        "fnd-alert-db",
+        "fnd-alert-admin-db",
+        "fnd-alert-api",
+        "fnd-alrt-notifications",
+        "fnd-ns",
+        "fnd-alert-notifications",
+        "fnd-ns",
+        "fnd-alert-ui",
+        "fnd-bigdata-admin",
+        "fnd-bigdata-db",
+        "fnd-bigdata-tenant-admin",
+        "fnd-bigdata-manager-ms",
+        "fnd-bigdata-manager",
+        "fnd-bigdata-processors-ms",
+        "fnd-bigdata-measure-processor",
+        "fnd-bigdata-client",
+        "fnd-bigdata-topic-splitter",
+        "pqm-analytical-dataset-ui",        
+        "pqm-automation",
+        "pqm-data-stratification-ui",
+        "pqm-datastratification-ui",
+        "pqm-db",
+        "pqm-evaluation-monitor-ui",
+        "pqm-ms",
+        "pqm-tagsubscription-ui",                
+        "pqm-predictive-model-ui",
+        "pqm-qltypred-db",
+        "pqm-qltypred-ml-lib",
+        "sac-poc",
+        "pqm-qltypred-ms"        
+      ],
+      "owners": [
+        "I039606",
+        "I044283"
+      ]
+    },
+    "BLR2GRP2": {
+      "repositories": [
+        "fnd-reuse-alert-service-broker",
+        "fnd-reuse-alert-ui",
+        "fnd-reuse-alert-ms",
+        "fnd-reuse-config-ms"
+      ],
+      "owners": [
+        "I039606",
+        "I044283",
+        "I033142",
+        "I320259"
+      ]
+    }   
+  },
+  "TeamArchitect": ["I039606"],
+  "ScrumMaster": ["I048863"],
+  "TeamProductOwner": ["I072728"],
+  "Components": ["PQM", "Alert"],
+  "Labels": ["BLR2"],
+  "Version": "2008"
+}

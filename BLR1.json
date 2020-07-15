@@ -1,0 +1,51 @@
+{
+  "BLR1": {
+    "BLR1GRP1": {
+      "repositories": [
+        "dmi-admin",
+        "dmi-db",
+        "dmi-app-db",
+        "dmi-haa",
+        "dmi-admin-ui",
+        "dmi-analytical-model-ui",
+        "dmi-dashboard-designer-ui",
+        "dmi-approuter",
+        "dmi-apps",
+        "dmi-java",
+        "rproxy-dashboard",
+        "dmi-variant-config",
+        "dmi-automation",
+        "dmi-configuration-ui",
+        "dmi-standard-dashboards-ui",        
+        "dmi-odata",
+        "dmi-xsodata",
+        "dmi-parent-pom",
+        "DMCTileExecution",
+        "fnd-analytical-modeler",
+        "fnd-ondemand-analytics",
+        "fnd-content-management",
+        "fnd-scheduler",
+        "fnd-lib-expression-engine",
+        "fnd-lib-customdb-deployer",
+        "fnd-lib-localisation",
+        "fnd-lib-analytical-modeler",
+        "fnd-uia",
+        "fnd-lib-authorization-helper",
+        "fnd-admin",
+        "fnd-replication"
+      ],
+      "owners": [
+        "I050377",
+        "I328163",
+        "I064246",
+        "I334075"
+      ]
+    }
+  },
+  "TeamArchitect": ["I050377"],
+  "ScrumMaster": ["I064246"],
+  "TeamProductOwner": ["I017233"],
+  "Components": ["DMI", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "BLR1"],
+  "Version": "2002"
+}

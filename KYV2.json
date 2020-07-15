@@ -1,0 +1,42 @@
+{
+  "KYV2": {
+    "KYV2GRP1": {
+      "repositories": [
+        "dme-extension-lib",
+        "dme-framework-lib",
+        "dme-matchers-lib",
+        "dme-onboarding-ms",
+        "dme-packing-api",
+        "dme-packing-it",
+        "dme-packing-ms",
+        "dme-packing-perf",
+        "dme-packing-ui",
+        "fnd-central-flp"
+      ],
+      "owners": [
+        "I340435",
+        "I340757"
+      ]
+    },
+    "KYV2GRP2": {
+      "repositories": [
+        "dmc-edge-datasync",
+        "dmc-edge-deployment",
+        "dmc-datasync"
+      ],
+      "owners": [
+        "I340435",
+        "I340757",
+        "I821991",
+        "I536228",
+        "D067233"
+      ]
+    }
+  },
+  "TeamArchitect": ["I340435"],
+  "ScrumMaster": ["I057851"],
+  "TeamProductOwner": ["I505882"],
+  "Components": ["DME", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "KVY2"],
+  "Version": "1911"  
+}

@@ -1,0 +1,32 @@
+{
+  "KYV1": {
+    "KYV1GRP1": {
+      "repositories": [
+        "dme-nonconformance-api",
+        "dme-nonconformance-it",
+        "dme-nonconformance-ms",
+        "dme-nonconformance-perf",
+        "dme-nonconformance-ui",
+        "dme-plant-api",
+        "dme-plant-it",
+        "dme-plant-perf",
+        "dme-plant-ui",
+        "fnd-document-ms",
+        "fnd-document-ui",
+        "dme-plant-ms"
+      ],
+      "owners": [
+        "I057862",
+        "I057817",
+        "I505866",
+        "C5272384"
+      ]
+    }
+  },
+  "TeamArchitect": ["I057862"],
+  "ScrumMaster": ["I057847"],
+  "TeamProductOwner": ["I057878"],
+  "Components": ["DME", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "KYV1"],
+  "Version": "1911"  
+}
