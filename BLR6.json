@@ -1,0 +1,127 @@
+{
+    "BLR6": {
+        "BLR6GRP1": {
+            "repositories": [
+                "dme-activityconfirmation-api",
+                "dme-activityconfirmation-it",
+                "dme-activityconfirmation-ms"
+            ],
+            "owners": [
+                "I049673",
+                "I071120",
+                "I502547"
+            ]
+        },
+        "BLR6GRP2": {
+            "repositories": [
+                "dme-numbering-api",
+                "dme-numbering-ms",
+                "dme-numbering-ui"
+            ],
+            "owners": [
+                "I049673",
+                "I311179",
+                "I332799",
+                "I327858",
+                "I821989",
+                "I821885",
+                "I821746",
+                "I822360",
+                "I351784"
+            ]
+        },
+        "BLR6GRP3": {
+            "repositories": [
+                "dmi-oee-data-aggregator",
+                "dme-oee-ms",
+                "dmc-oee-ui"
+            ],
+            "owners": [
+                "I049673",
+                "I311179",
+                "I332799",
+                "I327858",
+                "I077659",
+                "I071120"
+            ]
+        },
+        "BLR6GRP4": {
+            "repositories": [
+                "dme-classification-ui",
+                "dme-classification-ms"
+            ],
+            "owners": [
+                "I049673",
+                "I077659",
+                "I502547"
+            ]
+        },
+        "BLR6GRP5": {
+            "repositories": [
+                "dm-mii-automation",
+                "dm-oee-automation"
+            ],
+            "owners": [
+                "I049673",
+                "I503414"
+            ]
+        },
+        "BLR6GRP6": {
+            "repositories": [
+                "mii-dataload-automation",
+                "dm-pipod-automation"
+            ],
+            "owners": [
+                "I049673",
+                "I503394"
+            ]
+        },
+        "BLR6GRP7": {
+            "repositories": [
+                "dme-assembly-api",
+                "dme-assembly-ui",
+                "dme-assembly-ms",
+                "dme-assembly-it",
+                "dme-assembly-perf"
+            ],
+            "owners": [
+                "I822007",
+                "I821989",
+                "I822015",
+                "I049673",
+                "I821888",
+                "I502547",
+                "I077659"
+            ]
+        },
+        "BLR6GRP8": {
+            "repositories": [
+                "dmc-datageneration-ms",
+                "dmc-datageneration-ui"
+            ],
+            "owners": [
+                "I049673",
+                "I311179",
+                "I327858"
+            ]
+        }
+    },
+    "TeamArchitect": [
+        "I049673"
+    ],
+    "ScrumMaster": [
+        "I067734"
+    ],
+    "TeamProductOwner": [
+        "I064186"
+    ],
+    "Components": [
+        "DME",
+        "DEVOPS"
+    ],
+    "Labels": [
+        "DevOps-Critical",
+        "BLR6"
+    ],
+    "Version": "2005"
+}

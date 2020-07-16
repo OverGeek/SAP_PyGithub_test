@@ -1,0 +1,33 @@
+{
+  "BLR5": {
+    "BLR5GRP1": {
+      "repositories": [
+        "dme-labor-ms",
+        "dme-labor-ui",
+        "dme-reo-delivery-units",
+        "dme-reo-ml-lib",
+        "dme-reo-ml-ms",
+        "dme-reo-ms",
+        "dme-reo-ui",
+        "dme-reo-mcts-ms",
+        "fnd-lib-feature-flags",
+        "DME-E2E-Integration",
+        "me-reo-service-extension",
+        "dme-reo-tool-ms",
+        "fnd-common-services",
+        "dme-reo-tool-ui"
+      ],
+      "owners": [
+        "I029682",
+        "I323973",
+        "I320853"
+      ]
+    }
+  },
+  "TeamArchitect": ["I029682"],
+  "ScrumMaster": ["I300768"],
+  "TeamProductOwner": ["I823733"],
+  "Components": ["REO", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "BLR5"],
+  "Version": "2002"  
+}

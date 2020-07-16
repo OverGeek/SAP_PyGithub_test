@@ -1,0 +1,70 @@
+{
+    "SHA2": {
+        "SHA2GRP1": {
+            "repositories": [
+                "dme-demand-api",
+                "dme-demand-it",
+                "dme-demand-ms",
+                "dme-demand-ui",
+                "dme-integration-api",
+                "dme-integration-it",
+                "dme-integration-ms",
+                "dme-integration-ui",
+                "dme-integration-lib"
+            ],
+            "owners": [
+                "I069374",
+                "I501338",
+                "I037434"
+            ]
+        },
+        "SHA2GRP2": {
+            "repositories": [
+                "fnd-api-gateway-ms"
+            ],
+            "owners": [
+                "I037434",
+                "I069374"
+            ]
+        },
+        "SHA2GRP3": {
+            "repositories": [
+                "fnd-audit-service-ui",
+                "fnd-audit-service-ms"
+            ],
+            "owners": [
+                "I037434",
+                "I310148"
+            ]
+        },
+        "SHA2GRP4": {
+            "repositories": [
+                "dme-cpi-integration",
+                "dme-cpi-integration-template"
+            ],
+            "owners": [
+                "I069374",
+                "I501338",
+                "I505137"
+            ]
+        }
+    },
+    "TeamArchitect": [
+        "I037434"
+    ],
+    "ScrumMaster": [
+        "I310645"
+    ],
+    "TeamProductOwner": [
+        "I501338"
+    ],
+    "Components": [
+        "DME",
+        "DEVOPS"
+    ],
+    "Labels": [
+        "DevOps-Critical",
+        "SHA2"
+    ],
+    "Version": "2008"
+}

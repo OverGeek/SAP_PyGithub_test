@@ -1,0 +1,112 @@
+{
+	"DEVOPS": {
+		"DEVOPSGRP1": {
+			"repositories": [
+				"dmc-devops-reports",
+				"dm-devops",
+				"mn-dummy-ui",
+				"mn-dummy-java-ms",
+				"tst-java-lib",
+				"tst-java-ms"
+			],
+			"owners": [
+				"I503045",
+				"I067391"
+			]
+		},
+		"DEVOPSGRP2": {
+			"repositories": [
+				"dm-platform-aws-services",
+				"dm-platform-azure-services"
+			],
+			"owners": [
+				"I064174",
+				"I067391",
+				"D019741"
+			]
+		},
+		"DEVOPSGRP3": {
+			"repositories": [
+				"db-artifact-deploy",
+				"lps-onboarding"
+			],
+			"owners": [
+				"I503045",
+				"I067391"
+			]
+		},
+		"DEVOPSGRP4": {
+			"repositories": [
+				"fnd-parent-pom",
+				"fnd-central-provisioning",
+				"fnd-framework"
+			],
+			"owners": [
+				"I069133",
+				"I067391",
+				"I064174",
+				"I061677"
+			]
+		},
+		"DEVOPSGRP5": {
+			"repositories": [
+				"dmc-rbsc-Description",
+				"dmc-lss-landscape",
+				"dmc-lss-product"
+			],
+			"owners": [
+				"I069133",
+				"I067391",
+				"I326373",
+				"I310810",
+				"I341063"
+			]
+		},
+		"DEVOPSGRP6": {
+			"repositories": [
+				"dmc-public-api-docs"
+			],
+			"owners": [
+				"D019741",
+				"I061677",
+				"I075518"
+			]
+		},
+		"DEVOPSGRP7": {
+			"repositories": [
+				"codepipes_dmdme",
+				"codepipes_DMFND",
+				"codepipes_DMDMI",
+				"codepipes_DMPQM",
+				"codepipes_DMMN",
+				"codepipes_DIMA"
+			],
+			"owners": [
+				"D019741",
+				"I503045",
+				"I067391",
+				"I821885",
+				"I064174",
+				"I039606",
+				"I309990"
+			]
+		}		
+	},
+	"TeamArchitect": [
+		"I067391"
+	],
+	"ScrumMaster": [
+		"I503045"
+	],
+	"TeamProductOwner": [
+		"I067391"
+	],
+	"Components": [
+		"DEVOPS"
+	],
+	"Labels": [
+		"DevOps-Critical",
+		"DEVOPS"
+	],
+	"Version": "1911"
+}

@@ -1,0 +1,38 @@
+{
+  "SHA1": {
+    "SHA1GRP1": {
+      "repositories": [
+        "sfd-app-ui",
+        "sfd-ui",
+        "sfd-service-adaptor-ms",
+        "sfd-app-ms",
+        "sfd-app",
+        "sfd-automation-ui5",
+        "dmc-service-repository"
+      ],
+      "owners": [
+        "I503139",
+        "I302473",
+        "I311610"
+      ]
+    }
+  },
+  "SHA1GRP2": {
+      "repositories": [
+        "sfd-automation"
+      ],
+      "owners": [
+        "I533414",
+        "I312392",
+        "I065437",
+        "I321492",
+        "I536270"
+      ]
+    },
+  "TeamArchitect": ["I302473"],
+  "ScrumMaster": ["I311610"],
+  "TeamProductOwner": ["I072223"],
+  "Components": ["SFD", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "SHA1"],
+  "Version": "1911"  
+}

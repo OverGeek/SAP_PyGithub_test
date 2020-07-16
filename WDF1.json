@@ -1,0 +1,20 @@
+{
+  "WDF1": {
+    "WDF1GRP1": {
+      "repositories": [
+        "fnd-lib-pco-cloudservices"        
+      ],
+      "owners": [
+        "D036004",
+        "D021792",
+        "D024439 "
+      ]
+    }
+  },
+  "TeamArchitect": ["D021792"],
+  "ScrumMaster": ["I311610"],
+  "TeamProductOwner": ["I072223"],
+  "Components": ["PCO"],
+  "Labels": ["DevOps-Critical", "WDF1"],
+  "Version": "2005"  
+}

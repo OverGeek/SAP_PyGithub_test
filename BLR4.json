@@ -1,0 +1,31 @@
+{
+  "BLR4": {
+    "BLR4GRP1": {
+      "repositories": [ 
+	"dmi-machinemodel-ui",
+        "dmi-lib-reusable-ui",	      
+	"fnd-broker",
+	"fnd-dpp",
+	"fnd-lib-mmservices",
+	"fnd-lib-password-storage",
+	"fnd-hierarchy",
+	"dmi-hierarchy-ui",
+	"fnd-machine-connectivity-ui",      
+	"mm-automation",	      
+	"fnd-machine"
+      ],
+      "owners": [
+        "I065789",
+	"I065284",
+	"I341880",
+	"I077554"
+      ]
+    }
+  },
+  "TeamArchitect": ["I077554"],
+  "ScrumMaster": ["I061926"],
+  "TeamProductOwner": ["I065789"],
+  "Components": ["MM", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "BLR4"],
+  "Version": "2002"  
+}

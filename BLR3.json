@@ -1,0 +1,27 @@
+{
+  "BLR3": {
+    "BLR3GRP1": {
+      "repositories": [
+        "de-onboarding-ms",
+        "de-transformation",
+        "de-data-agent",
+        "de-agent-manager-ms",
+        "de-modeler-ms",
+        "de-config-ui",
+        "de-modeler-ui"
+      ],
+      "owners": [
+        "I064246",
+        "I064174",
+        "I028973",
+        "I342631"
+      ]
+    }
+  },
+  "TeamArchitect": ["I064174", "I342631"],
+  "ScrumMaster": ["I064246"],
+  "TeamProductOwner": ["I017233", "I028973"],
+  "Components": ["DE", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "BLR3"],
+  "Version": "2008"
+}

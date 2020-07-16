@@ -1,0 +1,44 @@
+{
+  "KYV3": {
+    "KYV3GRP1": {
+      "repositories": [
+        "dme-sapui5-ui-lib",
+        "dme-workinstruction-api",
+        "dme-workinstruction-it",
+        "dme-workinstruction-ms",
+        "dme-workinstruction-perf",
+        "dme-workinstruction-ui",
+        "dmi-reports-ui",
+        "dme-product-api",
+        "dme-product-it",
+        "dme-product-ms",
+        "dme-product-ui"
+      ],
+      "owners": [
+        "I057808",
+        "I057823",
+        "I057810",
+        "I355209"
+      ]
+    },
+    "KYV3GRP2": {
+      "repositories": [
+        "dme-sapui5-ui-lib"
+      ],
+      "owners": [
+        "I057808",
+        "I057823",
+        "I049673",
+        "I821989",
+        "I057810",
+        "I822015"
+      ]
+    }    
+  },
+  "TeamArchitect": ["I057808"],
+  "ScrumMaster": ["I057847"],
+  "TeamProductOwner": ["I500244"],
+  "Components": ["DME", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "KVY3"],
+  "Version": "1911"  
+}

@@ -1,0 +1,118 @@
+{
+  "SHA5": {
+    "SHA5GRP1": {
+      "repositories": [
+        "fnd-serviceregistry-ms",
+        "fnd-serviceregistry-ui",
+        "fnd-serviceregistry-it",
+        "fnd-serviceregistry-api"
+      ],
+      "owners": [
+        "I533414",
+        "I533321",
+        "I309990"
+      ]
+    },
+    "SHA5GRP2": {
+      "repositories": [
+        "mn-asbuilt-report-ms",
+        "mn-service-lib",
+        "mn-collaboration-platform-ms"
+      ],
+      "owners": [
+        "I533414",
+        "I312392"
+      ]
+    },
+    "SHA5GRP3": {
+      "repositories": [
+        "mn-asbuilt-report-ui",
+        "mn-collaboration-ui",
+        "mn-common-ui-lib",
+        "mn-webhook-ui"
+      ],
+      "owners": [
+        "I533414",
+        "I310148"
+      ]
+    },
+    "SHA5GRP4": {
+      "repositories": [
+        "mn-admin-server",
+        "mn-design-collaboration-ms",
+        "mn-quality-collaboration-ms",
+        "mn-3d-connector-collaboration"
+      ],
+      "owners": [
+        "I533414",
+        "I037434"
+      ]
+    },
+    "SHA5GRP5": {
+      "repositories": [
+        "mn-sharing-framework-ms",
+        "mn-extension-management-ms"
+      ],
+      "owners": [
+        "I533414",
+        "I075620"
+      ]
+    },
+    "SHA5GRP6": {
+      "repositories": [
+        "mn-automation"
+      ],
+      "owners": [
+        "I533414",
+        "I065437"
+      ]
+    },
+    "SHA5GRP7": {
+      "repositories": [
+        "mn-bp-service-ms"
+      ],
+      "owners": [
+        "I533414",
+        "I503139"
+      ]
+    },
+    "SHA5GRP8": {
+      "repositories": [
+        "mn-devops-ui",
+        "mn-provisioning",
+        "mn-parent-pom"
+      ],
+      "owners": [
+        "I533414",
+        "I309990"
+      ]
+    },
+    "SHA5GRP9": {
+      "repositories": [
+        "fnd-flp-plugin-ui",
+        "fnd-dmc-flp",
+        "fnd-dmc-approuter"
+      ],
+      "owners": [
+        "I061677",
+        "I059695"
+      ]
+    },
+    "SHA5GRP10": {
+      "repositories": [
+        "dm-uaa-services"
+      ],
+      "owners": [
+        "I533414",
+        "I061677",
+        "I064174"
+      ]
+    }
+  },
+  "TeamArchitect": ["I533414"],
+  "ScrumMaster": ["I309990"],
+  "TeamProductOwner": ["I075518"],
+  "Components": ["SFD", "DME", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "SHA5"],
+  "Version": "2008"
+}

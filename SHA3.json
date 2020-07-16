@@ -1,0 +1,20 @@
+{
+  "SHA3": {
+    "SHA3GRP1": {
+      "repositories": [
+        "fnd-processengine-ms",
+        "fnd-processengine-monitoring-ui"
+      ],
+      "owners": [
+        "I533321",
+        "I503139"
+      ]
+    }
+  },
+  "TeamArchitect": ["I503139","I533321"],
+  "ScrumMaster": ["I076806"],
+  "TeamProductOwner": ["I533714"],
+  "Components": ["SFD", "DME", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "SHA3"],
+  "Version": "2008"
+}

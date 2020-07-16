@@ -1,0 +1,34 @@
+{
+  "SHA4": {
+    "SHA4GRP1": {
+      "repositories": [
+        "dme-inventory-api",
+        "dme-inventory-it",
+        "dme-inventory-ms",
+        "dme-inventory-perf",
+        "dme-inventory-ui"
+      ],
+      "owners": [
+        "I069374",
+        "I312392",
+        "I501338"
+      ]
+    },
+    "SHA4GRP2": {
+      "repositories": [
+        "fnd-fileservice-lib",
+        "fnd-mailservice-lib"
+      ],
+      "owners": [
+        "I069374",
+        "I312392"
+      ]
+    }
+  },
+  "TeamArchitect": ["I069374", "I312392"],
+  "ScrumMaster": ["I072206"],
+  "TeamProductOwner": ["I070868"],
+  "Components": ["DME", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "SHA4"],
+  "Version": "2008"
+}

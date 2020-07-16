@@ -1,0 +1,81 @@
+{
+  "USA1": {
+    "USA1GRP1": {
+      "repositories": [
+        "dme-approuter-mta",
+        "dme-melegacy-lib",
+        "dme-e2e",
+        "dme-dev-approuter",
+        "dme-datacollection-ui"
+      ],
+      "owners": [
+        "I821989",
+        "I822015",
+        "I821954",
+        "I821888",
+        "I057862",
+        "I505866"
+      ]
+    },
+    "USA1GRP2": {
+      "repositories": [
+        "dme-parent-poms"
+      ],
+      "owners": [
+        "I821989",
+        "I822015",
+        "I821885"
+      ]
+    },
+    "USA1GRP3": {
+      "repositories": [
+          "dme-pod-ui"          
+      ],
+      "owners": [
+        "I821989",
+        "I822015",
+        "I821954",
+        "I822007",
+        "I049673",
+        "I057817",
+        "C5272384",
+        "I057862",
+        "I821888"
+      ]
+    },
+    "USA1GRP4": {
+      "repositories": [
+        "dme-podfoundation-ui",
+        "dme-podfoundation-it",
+        "dme-podfoundation-ms",
+        "dme-podfoundation-api",
+        "dme-podfoundation-perf",        
+        "dme-production-api",
+        "dme-production-it",
+        "dme-production-ms",
+        "dme-production-perf",
+        "dme-production-ui",        
+        "dme-datacollection-ms",
+        "dme-datacollection-ui",
+        "dme-datacollection-api",
+        "dme-datacollection-it"
+      ],
+      "owners": [
+        "I821989",
+        "I822015",
+        "I821954",
+        "I822007",
+        "I821888",
+        "I057862",
+        "I505866",
+        "I049673"        
+      ]
+    }    
+  },
+  "TeamArchitect": ["I821989"],
+  "ScrumMaster": ["I823211"],
+  "TeamProductOwner": ["I821977"],
+  "Components": ["DME", "DEVOPS"],
+  "Labels": ["DevOps-Critical", "USA1"],
+  "Version": "1911"  
+}
